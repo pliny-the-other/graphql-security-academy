@@ -17,7 +17,7 @@ This lesson starts a mini GraphQL server, which runs directly in your browser us
 - Install the server by running `npm install`.
 - Start the server with `npm start`.
 
-You should see a GraphQL IDE, allowing you to run queries and mutations against the server. Our schema is quite concise, and only contains a single `Lesson` type.
+You should see a GraphQL IDE, allowing you to run queries and mutations against the server. Our schema is quite concise, containing only a single `Lesson` type.
 
 ```graphql
 type Lesson {
